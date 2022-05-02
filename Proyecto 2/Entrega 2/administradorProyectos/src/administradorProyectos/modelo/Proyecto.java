@@ -116,7 +116,7 @@ public class Proyecto implements Serializable
 		return elBuscado;
 	}
 	
-	public void crearActividad(String titulo, String tipo, String descripcion, String nombreEncargado) 
+	public void crearActividad(String titulo, String tipo, String descripcion, String nombreEncargado)
 	{
 		Participante encargado = buscarParticipante(nombreEncargado);
 		if (encargado == null)

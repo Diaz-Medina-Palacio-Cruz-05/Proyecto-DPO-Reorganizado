@@ -134,7 +134,7 @@ public class Reporte implements Serializable
 		return aImprimir;
 	}
 		
-	public void generarTextoReporte(ArrayList<Actividad> actividades) 
+	public void generarTextoReporte(ArrayList<Actividad> actividades)
 	{
 		String textoReporte = "\n===========================================";
 		textoReporte += "\n==== Reporte de Actividades de " + nombreParticipante + "====";

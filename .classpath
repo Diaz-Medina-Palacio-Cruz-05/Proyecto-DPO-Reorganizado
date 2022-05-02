@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Proyecto 1/administradorProyectos/src"/>
+	<classpathentry kind="src" path="Proyecto 2/Entrega 2/administradorProyectos/src"/>
+	<classpathentry kind="output" path="Proyecto 1/administradorProyectos/bin"/>
+</classpath>
